@@ -1,0 +1,1 @@
+This is introduction file to the Git. The file will be used to test Git Terminal commands and setup repos.
